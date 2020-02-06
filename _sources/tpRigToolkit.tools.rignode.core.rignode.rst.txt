@@ -1,0 +1,7 @@
+tpRigToolkit.tools.rignode.core.rignode module
+==============================================
+
+.. automodule:: tpRigToolkit.tools.rignode.core.rignode
+   :members:
+   :undoc-members:
+   :show-inheritance:

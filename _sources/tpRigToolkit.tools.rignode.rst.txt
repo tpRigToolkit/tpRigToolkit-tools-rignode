@@ -1,0 +1,17 @@
+tpRigToolkit.tools.rignode package
+==================================
+
+Subpackages
+-----------
+
+.. toctree::
+
+   tpRigToolkit.tools.rignode.core
+
+Module contents
+---------------
+
+.. automodule:: tpRigToolkit.tools.rignode
+   :members:
+   :undoc-members:
+   :show-inheritance:
