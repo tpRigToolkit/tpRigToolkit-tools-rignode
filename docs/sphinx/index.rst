@@ -1,5 +1,5 @@
 Welcome to tpRigToolkit-tools-rignode documentation!
-==============================================
+======================================================
 
 .. toctree::
    :maxdepth: 2
